@@ -1,6 +1,6 @@
 # pi-lab
 
-A small collection of [pi](https://github.com/badlogic/pi-mono) (pi-coding-agent) extensions.
+A small collection of [pi](https://github.com/badlogic/pi-mono) (pi-coding-agent) extensions from your friends at Continua.
 
 ## Install
 
