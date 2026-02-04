@@ -1,0 +1,15 @@
+# pi-lab
+
+A small collection of [pi](https://github.com/badlogic/pi-mono) (pi-coding-agent) extensions.
+
+## Install
+
+```bash
+pi install git:github.com/continua-ai/pi-lab
+```
+
+After install, restart `pi` (or run `/reload`) and the extensions in this repo will be available.
+
+## Extensions
+
+- `subscription-fallback` (`/subswitch`): automatically switches between a ChatGPT subscription provider and an API-key provider when you hit usage/rate limits.

@@ -1,0 +1,11 @@
+{
+  "name": "pi-lab",
+  "version": "0.1.0",
+  "description": "A small collection of pi (pi-coding-agent) extensions",
+  "license": "MIT",
+  "keywords": ["pi-package"],
+  "type": "module",
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
